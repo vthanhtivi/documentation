@@ -11,7 +11,7 @@ Tới tab :doc:`thethao` để xem tất cả code liên quan tới thethao.
 
    Website đang trong quá trình phát triển nên có thể sẽ thiếu thông tin.
 
-Contents
+Sơ đồ website
 --------
 
 .. toctree::
